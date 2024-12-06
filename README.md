@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Muhammad Mavia!  
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammadMavia&color=blue)
 
 I am a **full-stack engineer** with **8+ years** of experience building scalable and high-performing applications. Passionate about **AI development**, I specialize in crafting modern, robust solutions using cutting-edge technologies. 
 
@@ -13,3 +12,5 @@ I am a **full-stack engineer** with **8+ years** of experience building scalable
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammadmavia/)  
 - 🌟 [Website](https://www.muhammadmavia.com)  
 - ✉️ [Email](mailto:muhammadmavia172@gmail.com)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadMavia&color=blue)
