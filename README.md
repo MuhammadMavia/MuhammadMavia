@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Mavia!  
 
-<!--
-**MuhammadMavia/MuhammadMavia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **full-stack engineer** with **8+ years** of experience building scalable and high-performing applications. Passionate about **AI development**, I specialize in crafting modern, robust solutions using cutting-edge technologies. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔧 **Tech Expertise**: Angular, React, Vue.js, MEAN stack, Node.js, Python, and TypeScript.  
+- 💼 **Current Role**: Leading software development at **Devabyte**, an AI-based software house.  
+- 🌟 **Ambition**: To establish a U.S.-based service-based software company.  
+- 🌍 **Languages & Tools**: FastAPI, MongoDB, Firebase Hosting, Ionic, Twilio, and more!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Let’s Connect!  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammadmavia/)  
+- 🌟 [Website](www.muhammadmavia.com)  
+- ✉️ [Email](mailto:muhammadmavia172@gmail.com)  
