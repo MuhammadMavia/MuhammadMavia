@@ -10,5 +10,5 @@ I am a **full-stack engineer** with **8+ years** of experience building scalable
 
 ## 🌐 Let’s Connect!  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammadmavia/)  
-- 🌟 [Website](www.muhammadmavia.com)  
+- 🌟 [Website](https://www.muhammadmavia.com)  
 - ✉️ [Email](mailto:muhammadmavia172@gmail.com)  
