@@ -14,3 +14,5 @@ I am a **full-stack engineer** with **8+ years** of experience building scalable
 - ✉️ [Email](mailto:muhammadmavia172@gmail.com)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammadMavia&color=blue)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadMavia&show_icons=true&locale=en&layout=compact" alt="MuhammadMavia" /></p>
